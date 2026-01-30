@@ -1,0 +1,23 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+venv/
+env/
+.env
+
+#IDE 配置
+.vscode/
+.idea/
+
+# 你的输出结果 (不要上传结果数据!)
+parsed_results/
+*_processed.xlsx
+*_processed.json
+*_processed.docx
+*_processed.pdf
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
